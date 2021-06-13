@@ -1,0 +1,34 @@
+.ScreenOne-main {
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+
+.ScreenOne-title {
+  position: absolute;
+  top: 0%;
+  left: 50%;
+  transform: translate(-50%, 50%);
+}
+
+.ScreenOne-img {
+  position: absolute;
+  top: 15%;
+  left: 35%;
+}
+
+.ScreenOne-btn {
+  height: 60px;
+  width: 150px;
+  font-size: 40px;
+  font-weight: bold;
+  text-decoration: none;
+  border: none;
+  color: white;
+  border-radius: 35px;
+  text-align: center;
+  background-color: green;
+  position: absolute;
+  top: 85%;
+  left: 45%;
+}
